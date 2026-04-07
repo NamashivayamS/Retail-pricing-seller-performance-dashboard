@@ -61,15 +61,6 @@ retail-pricing-seller-performance-dashboard/
     ├── filters_view.png
 ```
 
----
-
-## 📸 Dashboard Preview
-
-> Add screenshots of your dashboard in the `/images` folder and display them here:
-
-![Dashboard Overview](images/dashboard_overview.png)
-![KPI View](images/kpi_view.png)
-![Filters View](images/filters_view.png)
 
 ---
 
